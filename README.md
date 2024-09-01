@@ -1,6 +1,8 @@
 Animated maps using matplotlib created by me during the 2024 Data Science in Oceanography program at the University of Washington School of Oceanography. The data was collected from the Spotter buoy global network dataset
 of significant wave height, and wind velocity data from the ERA5 reanalysis dataset from the European Centre for Medium-Range Weather Forecasts.
 
+The maps correspond to the five great ocean gyres of the world: North and South Atlantic, North and South Pacific, and the Indian Oceans.
+
 ERA5 data: https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
 
 Spotter buoy data: https://www.sofarocean.com/mx/sofar-spotter-archive
